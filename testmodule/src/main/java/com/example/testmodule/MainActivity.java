@@ -15,14 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView text1 = (TextView) findViewById(R.id.txt_test);
 
-        int a = 10;
-        int b = 20;
 
-        if (a > b){
-            b = 30;
-        }else {
-            a = 20;
-        }
 
 
     }
